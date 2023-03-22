@@ -1,11 +1,11 @@
 @font-face {
-    font-family: "DIN";
-    src: url("fonts/clanot-news.otf");
+    font-family: "DIN300";
+    src: url("fonts/helvetica-75-bold.ttf");
     font-weight: normal;
 }
 
 @font-face {
     font-family: "DIN";
-    src: url("fonts/clanot-thin.otf");
+    src: url("fonts/Helvetica-55-Roman.otf");
     font-weight: 300;
 }

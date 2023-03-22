@@ -8,11 +8,11 @@
   box-sizing: border-box;
 
   &.is-active {
-    background: var(--color-gray-dark-alt);
+    background: var(--color-black-alt);
   }
 
   &:hover {
-    background: var(--color-gray-dark-alt2);
+    background: var(--color-black-alt2);
   }
 
   &:first-child {

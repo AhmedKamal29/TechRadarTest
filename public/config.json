@@ -1,39 +1,39 @@
 {
   "quadrants": {
-    "languages-and-frameworks": "Languages & Frameworks",
-    "methods-and-patterns": "Methods & Patterns",
-    "platforms-and-aoe-services": "Platforms & Operations",
-    "tools": "Tools"
+    "Evolution-Platforms": "Evolution Platforms",
+    "Augmented-Customer-Experience": "Augmented Customer Experience",
+    "Platforms-Workplace-Togther": "Workplace Togther",
+    "Smart-Industries": "Smart Industries"
   },
   "rings": [
-    "adopt",
-    "trial",
-    "assess",
-    "hold"
+    "strategic",
+    "upcoming",
+    "commercial",
+    "scouting"
   ],
   "showEmptyRings": false,
   "homepageContent": "both",
   "quadrantsMap": {
-    "languages-and-frameworks": {
-      "colour": "#84BFA4",
-      "txtColour": "#444444",
+    "Evolution-Platforms": {
+      "colour": "#FF7900",
+      "txtColour": "white",
       "position": 1,
       "description": "We've placed development languages (such as Scala or Golang) here, as well as more low-level development frameworks (such as Play or Symfony), which are useful for implementing custom software of all kinds."
     },
-    "methods-and-patterns": {
-      "colour": "#248EA6",
+    "Augmented-Customer-Experience": {
+      "colour": "#50BE87",
       "txtColour": "white",
       "position": 2,
       "description": "Here we put information on methods and patterns concerning development, continuous x, testing, organization, architecture, etc."
     },
-    "platforms-and-aoe-services": {
-      "colour": "#F25244",
-      "txtColour": "#444444",
+    "Platforms-Workplace-Togther": {
+      "colour": "#4BB4E6",
+      "txtColour": "white",
       "position": 3,
       "description": "This quadrant clusters technologies around the operation of software and infrastructure related platforms, tools and services."
     },
-    "tools": {
-      "colour": "#F2A25C",
+    "Smart-Industries": {
+      "colour": "#FFD200",
       "txtColour": "white",
       "position": 4,
       "description": "Here we put different software tools - from small helpers to bigger software projects"
@@ -42,26 +42,25 @@
   "chartConfig": {
     "size": 800,
     "scale": [
-      -16,
-      16
+      -18,
+      18
     ],
     "blipSize": 12,
-    "ringsAttributes": [
-      {
-        "radius": 8,
-        "arcWidth": 6
-      },
-      {
-        "radius": 11,
+    "ringsAttributes": [{
+        "radius": 6,
         "arcWidth": 4
       },
       {
-        "radius": 14,
-        "arcWidth": 2
+        "radius": 10,
+        "arcWidth": 4
       },
       {
-        "radius": 16,
-        "arcWidth": 2
+        "radius": 14.5,
+        "arcWidth": 4
+      },
+      {
+        "radius": 18,
+        "arcWidth": 4
       }
     ]
   },

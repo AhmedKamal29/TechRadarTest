@@ -13,7 +13,7 @@ const customStyles = {
     bottom: "auto",
     marginRight: "-50%",
     transform: "translate(-50%, -50%)",
-    backgroundColor: "var(--color-gray-dark)",
+    backgroundColor: "var(--color-black)",
     color: "var(--color-white)",
     padding: 0,
     borderRadius: "20px",

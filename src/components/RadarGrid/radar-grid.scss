@@ -19,6 +19,8 @@
 .quadrant-label .split {
     font-size: 12 px;
     text-transform: uppercase;
+    font-family: "DIN";
+    font-weight: normal;
 }
 
 .quadrant-label hr {
@@ -28,7 +30,9 @@
 
 .quadrant-label .description {
     font-size: 14px;
-    color: #a6b1bb
+    color: #a6b1bb;
+    font-family: "DIN";
+    font-weight: normal;
 }
 
 .quadrant-label .icon-link {
