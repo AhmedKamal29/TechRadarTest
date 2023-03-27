@@ -64,5 +64,9 @@
       }
     ]
   },
-  "dateFormat": "MMMM YYYY"
+  "dateFormat": "MMMM YYYY",
+  "editLink": {
+    "radarLink": "https://github.com/AhmedKamal29/TechRadarTest",
+    "title": "Edit"
+  }
 }

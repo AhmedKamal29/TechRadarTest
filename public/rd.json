@@ -2143,18 +2143,18 @@
       "featured": true,
       "revisions": [{
           "name": "node-js",
-          "release": "2021-01-01",
+          "release": "2023-03-26",
           "ring": "strategic",
-          "fileName": "C:\\projects\\techradar\\radar\\2021-01-01\\node-js.md",
+          "fileName": "C:\\projects\\techradar\\radar\\2023-03-26\\AWS.md",
           "body": ""
         },
         {
           "name": "node-js",
-          "release": "2017-03-01",
+          "release": "2023-03-26",
           "title": "node.js",
           "ring": "upcoming",
           "quadrant": "Evolution-Platforms",
-          "fileName": "C:\\projects\\techradar\\radar\\2017-03-01\\node-js.md",
+          "fileName": "C:\\projects\\techradar\\radar\\2023-03-26\\AWS.md",
           "body": "<p>Node.js is a no- browser JavaScript execution runtime. Its basis is Google&#39;s V8 engine. <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://nodejs.org/en/\">Node</a> is event-driven and follows a non-blocking I/O model.</p>\n<p>It’s a good choice for restful APIs, realtime purposes or situations where many concurrent connections are expected, where each connection has a lightweight memory footprint.</p>\n<p>Node allows separation of concerns by using its package manager <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.npmjs.com/\">npm</a>, which is also the largest ecosystem of Open Source libraries (modules).</p>\n<p>Modules are added as dependencies and offer a wide range of functionalities in a range from simple helper functions to mature web frameworks such as <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://expressjs.com/de/\">express.js</a>.</p>\n<p>Many PaaS providers (AWS, Google Cloud Platform, Azure) support node, including deployment and monitoring services out of the box for scalable stateless applications.</p>\n<p>At AOE, we successfully use node.js-based applications for smaller services or internal Smart-Industries such dashboards.</p>\n"
         }
       ],
@@ -2164,8 +2164,8 @@
       "quadrant": "Evolution-Platforms",
       "body": "<p>Node.js is a no- browser JavaScript execution runtime. Its basis is Google&#39;s V8 engine. <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://nodejs.org/en/\">Node</a> is event-driven and follows a non-blocking I/O model.</p>\n<p>It’s a good choice for restful APIs, realtime purposes or situations where many concurrent connections are expected, where each connection has a lightweight memory footprint.</p>\n<p>Node allows separation of concerns by using its package manager <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.npmjs.com/\">npm</a>, which is also the largest ecosystem of Open Source libraries (modules).</p>\n<p>Modules are added as dependencies and offer a wide range of functionalities in a range from simple helper functions to mature web frameworks such as <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://expressjs.com/de/\">express.js</a>.</p>\n<p>Many PaaS providers (AWS, Google Cloud Platform, Azure) support node, including deployment and monitoring services out of the box for scalable stateless applications.</p>\n<p>At AOE, we successfully use node.js-based applications for smaller services or internal Smart-Industries such dashboards.</p>\n",
       "info": "",
-      "release": "2021-01-01",
-      "fileName": "C:\\projects\\techradar\\radar\\2021-01-01\\node-js.md"
+      "release": "2023-03-26",
+      "fileName": "C:\\projects\\techradar\\radar\\2023-03-26\\AWS.md"
     },
     {
       "flag": "default",
