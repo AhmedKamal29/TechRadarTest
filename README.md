@@ -267,9 +267,9 @@ To add a help page, create a public folder in your application and put a `messag
       {
         "headline": "Introduction",
         "values": [
-          "Technology is moving fast and new technologies and innovations appear continuously.",
-          "It's essential for a development and technology company such as AOE to constantly improve and keep track with the latest useful innovations. It is important to openly look for innovations and new technologies and to question established technologies and methods every now and then.",
-          "But, it is also important to wisely choose which technologies to use in our daily work and in the different projects we are carrying out. As we all know: There is no silver bullet."
+          "This is the Orange Business Partner radar giving a global vision of the Orange Business partners in Europe",
+          "Each quadrant of the radar corresponds to a strategic value proposition. ",
+          "Each ring of the quadrant corresponds to the degree of partnership we have with the partner in question, defined by the partner office methodology. "
         ]
       },
       {
