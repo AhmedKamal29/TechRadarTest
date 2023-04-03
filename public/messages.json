@@ -8,27 +8,28 @@
       {
         "headline": "Introduction",
         "values": [
-          "This is the Orange Business Partner radar giving a global vision of the Orange Business partners in Europe",
-          "Each quadrant of the radar corresponds to a strategic value proposition. ",
-          "Each ring of the quadrant corresponds to the degree of partnership we have with the partner in question, defined by the partner office methodology. "
+          "This is the Orange Business Partner Radar, which gives an overview of our partner landscape from a European perspective.",
+          "The four quadrants of the Radar correspond to our four Strategic Value Propositions.",
+          "Each ring of the quadrants follows the qualification methodology (scouting, commercial, upcoming, strategic) of our Global Partner Office.",
+          "Please note: Multi-SVP partners such as Microsoft, Cisco and AWS are only included in the SVP where we currently have the strongest business (due to technical limitations)."
+
         ]
       },
       {
         "headline": "Contacts ",
         "values": [
-          "If you want to know more about the initiative, you can contact Jeanne SCHIED.",
-          "If you want to know more about the current governance of the tool, you can contact Riham ATTA. ",
-          "The radar is updated in a daily basis by the core team:",
-          "Jeanne SCHIED – Solution expert D&D Europe ",
-          "Riham ATTA",
-          "Silke Armbrust - Partner Manager Europe",
-          "Arjen Vormans - Partner Business Development Manager -  Netherlands ",
-          "Mike Christodoulou - Partner Business Development Manager -  UK ",
-          "Annika Karstadt - Partner Business Development Manager -  Germany ",
-          "Clemence Vauzelle - Strategic Domains - Partners IB  "
+          "If you have any questions, suggestions or updates, please contact Riham Atta, riham.atta@orange.com.",
+          "The Partner Radar is constantly updated by a core team:",
+          "   - Riham Atta – Lead Business Analyst Europe ",
+          "   - Silke Armbrust – Partner Manager Europe",
+          "   - Arjen Vromans – Partner BDM Netherlands",
+          "   - Mike Christodoulou – Partner BDM UK&I",
+          "   - Annika Karstadt – Partner BDM Germany",
+          "   - Clemence Vauzelle - International Strategic Partnerships"
         ]
       }
     ],
+
     "quadrants": [],
     "quadrantsPreDescription": "",
     "rings": [],
