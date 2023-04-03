@@ -2,10 +2,6 @@
   color: var(--color-gray-normal);
   font-size: 16px;
 
-.markdown p img{
-  float: right;
-}
-
   p {
     margin: 20px 0;
   }
@@ -46,6 +42,7 @@
   img {
     max-width: 100%;
     margin: 10 0 10 0;
+    float:right;
   }
 
   pre {
