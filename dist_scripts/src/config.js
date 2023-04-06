@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.translate = exports.assetUrl = exports.publicUrl = exports.isMobileViewport = exports.getItemPageNames = exports.radarNameShort = exports.radarName = void 0;
 exports.radarName = process.env.REACT_APP_RADAR_NAME || "Orange Business Europe Partner Radar";
-exports.radarNameShort = exports.radarName;
+exports.radarNameShort = "OB EU Partner Radar";
 var getItemPageNames = function (items) {
     return items.map(function (item) { return "".concat(item.quadrant, "/").concat(item.name); });
 };

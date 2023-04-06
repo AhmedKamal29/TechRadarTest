@@ -22,7 +22,7 @@ export interface ConfigData {
 
 export const radarName =
   process.env.REACT_APP_RADAR_NAME || "Orange Business Europe Partner Radar";
-export const radarNameShort = radarName;
+export const radarNameShort = "OB EU Partner Radar";
 
 export const getItemPageNames = (items: Item[]) =>
   items.map((item) => `${item.quadrant}/${item.name}`);
