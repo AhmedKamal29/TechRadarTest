@@ -40,10 +40,11 @@
   }
 
   img {
-    max-width: 100%;
-    margin: 0 0 5 80;
     height: 60px;
-
+    max-width: 100%;
+    position: absolute;
+    margin-left: 290px;
+    margin-top: -80px;
   }
 
   pre {
