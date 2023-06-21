@@ -39,15 +39,11 @@
     margin: 1em 0;
   }
 
-  img:first-child {
+  img[alt="Company logo"] {
     height: 60px;
     position: absolute;
     margin-left: 290px;
     margin-top: -80px;
-    // max-width: 130px;
-    // max-height: 100px;
-    // min-width: 100px;
-    // min-height: 50px;
   }
 
   pre {
